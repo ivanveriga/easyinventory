@@ -1,2 +1,56 @@
-# easyinvenotry
-Open source web-app for inventarization computers, thin clients, printers, routers and etc.
+# easyinventory
+Open source web-app for inventarization computers, thin clients, printers, routers and etc. [en]
+
+Open source web-приложения для простой инвентаризации компьютеров, тонких клиентов, принтеров, роутеров и других технических устройств.
+
+Версия 0.1 (Альфа)
+
+Приложение имеет приятный и простой дизайн, а так же удобную систему для инвентаризации техники.
+
+На главной странице встречает дашборд с некоторой статистикой
+![alt text](documentation/images/dashboard.bmp)
+
+Изображение интерфейса для настройки некоторых функций
+![alt text](documentation/images/settings.bmp)
+
+Интерфейсы управления списками помещений и подразделений, складом и комнатой хранения техники
+![alt text](documentation/images/rooms.bmp)
+![alt text](documentation/images/structure.bmp)
+![alt text](documentation/images/warehouse.bmp)
+![alt text](documentation/images/room.bmp)
+
+Интерфейс редактирования и просмотра информации о технике
+![alt text](documentation/images/computer.bmp)
+
+В версии 0.1 позволяет вести учёт: 
+
++ul Компьютеров
+  +ul Общая информация
+  +ul Информация об инвентаризации
+  +ul Информация о сети и Интернете
+  +ul Информация об обслуживании
+  +ul CPU
+  +ul Видеокарта
+  +ul Плата
+  +ul Корпус
+  +ul Диски
+  +ul ОЗУ
+
++ul Тонких клиентов
+  +ul Общая информация
+  +ul Информация об инвентаризации
+  +ul Информация об обслуживании
+  +ul CPU
+  +ul Видеокарта
+  +ul Диски
+  +ul ОЗУ
+
+
+
+В следующих версиях планируется:
+
++ul расширение списка информации для учёта компьютеров и тонких клиентов
++ul добавление возможности учёта принтеров и сетевого оборудования
++ul добавление таск-менеджера
++ul добавление возможности выгрузки отчётности
++ul расширение показателей для дашборда

@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteCond %(REQUEST_URI) !^folder/public
+RewriteRule ^(.*)$ folder/public/$1 [L]
