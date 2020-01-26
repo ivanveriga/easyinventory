@@ -15,7 +15,7 @@ Open source web-приложения для простой инвентариз�
 
 Интерфейсы управления списками помещений и подразделений, складом и комнатой хранения техники
 ![alt text](documentation/images/rooms.bmp)
-![alt text](documentation/images/structure.bmp)
+![alt text](documentation/images/structures.bmp)
 ![alt text](documentation/images/warehouse.bmp)
 ![alt text](documentation/images/room.bmp)
 
