@@ -27,5 +27,3 @@ composer create-project --prefer-dist laravel/laravel easyinventory
 # 🧪 Тестирование
 
 ...
-
-![Скриншот к проекту](documentation/images/dashboard.bmp)
